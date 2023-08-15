@@ -22,7 +22,7 @@
 
 <div style="display: inline_block"><br>
   <h2>☑️ Contact</h2>
-  <a href="https://filipe-rds.github.io/DevLinks/" target="_blank"><img  src="https://img.shields.io/badge/Developer_Links-000000?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"></a> 
+  <a href="https://filipe-rds.github.io/DevLinks/" target="_blank"><img  src="https://img.shields.io/badge/Dev_Links-000000?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"></a> 
   
  <div align="center">
   <br>
