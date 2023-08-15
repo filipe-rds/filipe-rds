@@ -5,24 +5,24 @@
 <div style="display: inline_block" ><br>
   <h2>💻 Main Skills </h2>
   <img align="right" src="capa.gif" width=44%>
-  <img align="center" alt="JS"       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Python"   src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="MySQL"    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
+  <img align="center" alt="JS"       src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow">
+  <img align="center" alt="Python"   src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&ogoColor=white">
+  <img align="center" alt="MySQL"    src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white">  
 
 </div>
 
 <div style="display: inline_block"><br>
   <h2>🤖 Studying in this moment </h2>
-  <img align="center" alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Figma"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Java"  src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=red">
+  <img align="center" alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=blue">
+  <img align="center" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green">
+  <img align="center" alt="Figma"  src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white">
   
 </div>
 
 <div style="display: inline_block"><br>
   <h2>📱 Contact</h2>
-  <a href="https://filipe-rds.github.io/DevLinks/" target="_blank"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://filipe-rds.github.io/DevLinks/" target="_blank"><img  src="https://img.shields.io/badge/DevLinks-000000?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"></a> 
   
  <div align="center">
   <br>
