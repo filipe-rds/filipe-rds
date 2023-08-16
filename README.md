@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020202&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Rodrigues+;I'm+21+years+old;I'm+from+Brazil;Studying+Internet+Systems+in+IFPB;IEEE+Computer+Society+Member;He4rt+Developers+Member;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff2b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Rodrigues+;I'm+21+years+old;I'm+from+Brazil;Studying+Internet+Systems+in+IFPB;IEEE+Computer+Society+Member;He4rt+Developers+Member;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block" ><br>
   <h2>🦾 Main Skills </h2> 
@@ -25,7 +25,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=filipe-rds&color=020202" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=filipe-rds&color=000000" /></p> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020202&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
