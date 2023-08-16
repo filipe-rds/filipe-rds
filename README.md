@@ -7,7 +7,8 @@
   <img align="right" src="capa.gif" width=44%>
   <img align="center" alt="JS"       src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Python"   src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="MySQL"    src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white">  
+  <img align="center" alt="MySQL"    src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Git"    src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"> 
 </div>
 
 <div style="display: inline_block"><br>
