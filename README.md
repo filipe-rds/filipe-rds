@@ -14,9 +14,9 @@
 <div style="display: inline_block"><br>
   <h2>🕮 Studying in this moment </h2>
   <img align="center" alt="Java"  src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="C++"  src="https://img.shields.io/badge/c%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Figma"  src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
