@@ -5,18 +5,21 @@
 <div style="display: inline_block" ><br>
   <h2>🦾 Main Skills </h2> 
   <img align="right" src="capa.gif" width=44%>
-  <img align="center" alt="JS"       src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white">
-  <img align="center" alt="Python"   src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="MySQL"    src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Git"    src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"> 
+  <img align="center" alt="Python"         src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="JS"             src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" alt="PostgreSQL"     src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="MySQL"          src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Git"            src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white"> 
 </div>
 
 <div style="display: inline_block"><br>
   <h2>🕮 Studying in this moment </h2>
-  <img align="center" alt="Java"  src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="C++"  src="https://img.shields.io/badge/c%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="TS"             src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Angular"        src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Java"           src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Spring"         src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="MongoDB"        src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Terminal"       src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
