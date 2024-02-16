@@ -19,7 +19,7 @@
   <img align="center" alt="Java"           src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Spring"         src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="MongoDB"        src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Terminal"       src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+  <img align="center" alt="Terminal"       src="https://img.shields.io/badge/Powershell-000?style=for-the-badge&logo=powershell&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
