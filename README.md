@@ -26,8 +26,9 @@
 
 <div style="display: inline_block"><br>
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="30" height="30" /> Contact</h3>
-  <a align="center" href="https://filipe-rds.github.io/DevLinks/" target="_blank"><img  src="https://img.shields.io/badge/Dev_Links-000000?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank"></a>
-</div>
+  <a align="center" href="https://www.linkedin.com/in/filipe-rds/" target="_blank"><img  src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
+  <a align="center" href="mailto:rodrigues.filipe@academico.ifpb.edu.br" target="_blank"><img  src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+</div> 
 
 <div style="display: inline_block"><br>
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=filipe-rds&color=782BF1" /></p> 
