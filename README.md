@@ -4,7 +4,8 @@
 
 <div style="display: inline_block" ><br>
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> Main Skills </h3>
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium%20Skin%20Tone.png" alt="Technologist Medium Skin Tone" width="200" height="200" />
+  <img align="right"src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="200" height="200" />
+  
 
   <img align="center" alt="Java"           src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="JS"             src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white">
