@@ -22,7 +22,7 @@
   <img align="center" alt="Angular"        src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Django"        src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="MongoDB"        src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Terminal"       src="https://img.shields.io/badge/Powershell-000?style=for-the-badge&logo=powershell&logoColor=white">
+  <img align="center" alt="MLflow"       src="https://img.shields.io/badge/MLflow-000?style=for-the-badge&logo=mlflow&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
