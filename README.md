@@ -4,9 +4,7 @@
 
 <div style="display: inline_block" ><br>
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> Main Skills </h3>
-  <img align="right"src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="200" height="200" />
   
-
   <img align="center" alt="Java"           src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="JS"             src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Python"         src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white">
@@ -17,6 +15,7 @@
 
 <div style="display: inline_block"><br>
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Studying in this moment </h3>
+  
   <img align="center" alt="Spring"         src="https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="TS"             src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Angular"        src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white">
