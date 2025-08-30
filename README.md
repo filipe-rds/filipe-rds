@@ -35,6 +35,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30"/> Currently Learning
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Fast_API-000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-000?style=for-the-badge&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-000?style=for-the-badge&logo=pytorch&logoColor=white)
