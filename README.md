@@ -14,6 +14,7 @@
 ![Spring](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,9 +35,10 @@
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-000?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-000?style=for-the-badge&logo=pytorch&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-000?style=for-the-badge&logo=langchain&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="30" height="30"/> Contact
