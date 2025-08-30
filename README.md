@@ -9,7 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Frameworks & tools
+#### Frameworks & Tools
 ![MLflow](https://img.shields.io/badge/MLflow-000?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white)
@@ -30,7 +30,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30"/> Currently learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30"/> Currently Learning
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-000?style=for-the-badge&logo=n8n&logoColor=white)
