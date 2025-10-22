@@ -48,8 +48,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="30" height="30"/> Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-rds/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:filipe.rds.dev@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/filipe-rds/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:filipe.rds.dev@gmail.com)
 
 
 <p align="center">
