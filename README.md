@@ -5,30 +5,30 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30"/> Main Skills
 
 #### Programming Languages
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)(#)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)(#)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)(#)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 #### Frameworks & Tools
-![MLflow](https://img.shields.io/badge/MLflow-000?style=for-the-badge&logo=mlflow&logoColor=white)(#)
-![Spring](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=white)(#)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white)(#)
-![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)(#)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)(#)
+[![MLflow](https://img.shields.io/badge/MLflow-000?style=for-the-badge&logo=mlflow&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 #### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)(#)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)(#)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=white)(#)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)(#)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=white)(#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=white)](#)
 
 
 #### Cloud Computing Services
-![AWS](https://custom-icon-badges.demolab.com/badge/Amazon_Web_Services-000.svg?style=for-the-badge&logo=aws&logoColor=white)(#)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)(#)
-![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render&logoColor=white)(#)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)(#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/Amazon_Web_Services-000.svg?style=for-the-badge&logo=aws&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)](#)
+[![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Medal" width="30" height="30"/> Certifications
 
@@ -38,13 +38,13 @@
 [![Oracle AI Foundations Associate](https://custom-icon-badges.demolab.com/badge/Oracle_AI_Foundations_Associate-000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2A87B96F0CDB28559207BA830E6BBB64106F19D2C7BCA0DB9ECF5B863F43E18D)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30"/> Currently Learning
-![AWS Developer - Associate](https://custom-icon-badges.demolab.com/badge/AWS_Developer_Associate-000.svg?style=for-the-badge&logo=aws&logoColor=white)(#)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)(#)
-![N8N](https://img.shields.io/badge/N8N-000?style=for-the-badge&logo=n8n&logoColor=white)(#)
-![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white)(#)
-![Pytorch](https://img.shields.io/badge/Pytorch-000?style=for-the-badge&logo=pytorch&logoColor=white)(#)
-![Langchain](https://img.shields.io/badge/Langchain-000?style=for-the-badge&logo=langchain&logoColor=white)(#)
-![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=white)(#)
+[![AWS Developer - Associate](https://custom-icon-badges.demolab.com/badge/AWS_Developer_Associate-000.svg?style=for-the-badge&logo=aws&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)](#)
+[![N8N](https://img.shields.io/badge/N8N-000?style=for-the-badge&logo=n8n&logoColor=white)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white)](#)
+[![Pytorch](https://img.shields.io/badge/Pytorch-000?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+[![Langchain](https://img.shields.io/badge/Langchain-000?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=white)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="30" height="30"/> Contact
 
