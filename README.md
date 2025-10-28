@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=782BF1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Rodrigues+;I'm+23+years+old;I'm+from+Brazil;Studying+Internet+Systems+in+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30"/> Main Skills
+## 🤖 Main Skills
 
 #### Programming Languages
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -30,14 +30,15 @@
 [![Render](https://img.shields.io/badge/Render-000?style=for-the-badge&logo=render&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Medal" width="30" height="30"/> Certifications
+## 🏅 Certifications
 
 [![AWS AI Practitioner](https://custom-icon-badges.demolab.com/badge/AWS_AI_Practitioner-000?style=for-the-badge&logo=aws&logoColor=white)](https://www.credly.com/badges/e901c07b-fd22-47af-bb17-9ed63a576d5c/linked_in_profile)
 [![AWS Cloud Practitioner](https://custom-icon-badges.demolab.com/badge/AWS_Cloud_Practitioner-000?style=for-the-badge&logo=aws&logoColor=white)](https://www.credly.com/badges/a05cc40a-d54c-431e-9369-bfdc09351982/linked_in_profile)
 [![AWS re/Start Graduate](https://custom-icon-badges.demolab.com/badge/AWS_re/Start_Graduate-000?style=for-the-badge&logo=aws&logoColor=white)](https://www.credly.com/badges/751b832c-19e9-445d-ab66-42e237b65d09/linked_in_profile)
-[![Oracle AI Foundations Associate](https://custom-icon-badges.demolab.com/badge/Oracle_AI_Foundations_Associate-000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2A87B96F0CDB28559207BA830E6BBB64106F19D2C7BCA0DB9ECF5B863F43E18D)
+[![Oracle Fusion AI Agent Studio Foundations Associate](https://custom-icon-badges.demolab.com/badge/Oracle_Fusion_AI_Agent_Studio_Foundations_Associate-000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2A87B96F0CDB28559207BA830E6BBB64106F19D2C7BCA0DB9ECF5B863F43E18D)
+[![Oracle Cloud Infrastructure AI Foundations Associate](https://custom-icon-badges.demolab.com/badge/Oracle_Cloud_Infrastructure_AI_Foundations_Associate-000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F925E29DFFCC25CE54A5480EDF9DAE00940C5F298809C05B2C60F1764EB76C02)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30"/> Currently Learning
+## 📚 Currently Learning
 [![AWS Developer - Associate](https://custom-icon-badges.demolab.com/badge/AWS_Developer_Associate-000.svg?style=for-the-badge&logo=aws&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)](#)
 [![N8N](https://img.shields.io/badge/N8N-000?style=for-the-badge&logo=n8n&logoColor=white)](#)
@@ -46,7 +47,7 @@
 [![Langchain](https://img.shields.io/badge/Langchain-000?style=for-the-badge&logo=langchain&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=white)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="30" height="30"/> Contact
+## 📱 Contact
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/filipe-rds/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:filipe.rds.dev@gmail.com)
