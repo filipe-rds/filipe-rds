@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=782BF1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Filipe+Rodrigues+;I'm+23+years+old;I'm+from+Brazil;Studying+Internet+Systems+in+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## 🤖 Main Skills
+## 💻 Main Skills
 
 #### Programming Languages
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)](#)
