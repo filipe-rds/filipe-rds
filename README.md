@@ -23,7 +23,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=white)](#)
 
-
 #### Cloud Computing Services
 [![AWS](https://custom-icon-badges.demolab.com/badge/Amazon_Web_Services-000.svg?style=for-the-badge&logo=aws&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)](#)
@@ -39,13 +38,12 @@
 [![Oracle Cloud Infrastructure AI Foundations Associate](https://custom-icon-badges.demolab.com/badge/OCI_AI_Foundations_Associate-000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F925E29DFFCC25CE54A5480EDF9DAE00940C5F298809C05B2C60F1764EB76C02)
 
 ## 📚 Currently Learning
+
 [![AWS Developer - Associate](https://custom-icon-badges.demolab.com/badge/AWS_Developer_Associate-000.svg?style=for-the-badge&logo=aws&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)](#)
 [![N8N](https://img.shields.io/badge/N8N-000?style=for-the-badge&logo=n8n&logoColor=white)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white)](#)
-[![Pytorch](https://img.shields.io/badge/Pytorch-000?style=for-the-badge&logo=pytorch&logoColor=white)](#)
 [![Langchain](https://img.shields.io/badge/Langchain-000?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform&logoColor=white)](#)
 
 ## 📱 Contact
 
